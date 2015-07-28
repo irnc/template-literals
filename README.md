@@ -1,6 +1,10 @@
 # template-literals
 
-Template literals, as introduced in ECMAScript 2015
+Template literals, as introduced in ECMAScript 2015.
+
+## It is not about string concatenation
+
+* see http://stackoverflow.com/a/27567436
 
 ## Initially named _template strings_
 
